@@ -9,3 +9,7 @@ Atlas Tweaks offers an array of resources that cater specifically to expert modp
 But that's not all! The developers of Atlas Tweaks are committed to continuously expanding the mod's capabilities. Future updates will introduce additional functionalities tailored explicitly for expert modpacks. These upcoming features will provide players with even more intricate challenges, innovative gameplay mechanics, and customizable options, allowing modpack creators and players alike to tailor their experiences to their liking.
 
 Whether you're a veteran modded Minecraft player seeking a fresh and demanding adventure or a modpack creator looking to elevate your creations, Atlas Tweaks is the mod for you. Join the growing community of dedicated players and get ready to embark on an incredible journey filled with unique challenges, rewarding progression, and limitless possibilities!
+
+**Mod Link**
+
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/atlas-tweaks)
