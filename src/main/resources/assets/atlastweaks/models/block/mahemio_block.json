@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "atlastweaks:block/mahemio_block"
-  }
-}
